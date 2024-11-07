@@ -1,6 +1,6 @@
-scikit-learn == 1.5.2
-scikit-learn.model_selection 
-scikit-learn.linear_model 
+sklearn == 1.5.2
+sklearn.model_selection 
+sklearn.linear_model 
 pandas
 streamlit
 uv
