@@ -1,6 +1,5 @@
 sklearn == 1.5.2
-sklearn.model_selection 
-sklearn.linear_model 
+
 pandas
 streamlit
 uv
