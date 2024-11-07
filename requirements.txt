@@ -1,4 +1,4 @@
-sklearn == 1.5.2
+sklearn 
 
 pandas
 streamlit
